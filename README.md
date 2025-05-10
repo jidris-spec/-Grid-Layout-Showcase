@@ -27,8 +27,12 @@ It features 9 columns (A to I) arranged in a custom layout with:
 
 
 
+![Screenshot 2025-05-10 230204](https://github.com/user-attachments/assets/5f7efc0b-7ba5-463c-bfba-cb11771e2571)
+
+
 
 
 ---
+![Uploading Screenshot 2025-05-10 230204.png…]()
 
 > This project is part of my [Frontend Bootcamp Projects Collection](https://github.com/jidris-spec) — showcasing my growth and learning path in frontend development.
